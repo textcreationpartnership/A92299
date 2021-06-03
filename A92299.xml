@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rebels almanack: calculated for the use of all loyal subjects within these his Majesties realms and dominions. Wherein is discovered, a new nest of old monsters; with all their secret wicked, and treasonable conspiracies, horrid plots, and bloody combinations, both against King and kingdoms. Likewise, the charge, judgmemt, and impeachment, against politick Lambert, seal-keeper Lisle, Blooms-bury Martin, blind-beetle Mayne, bloody Holland, and the London-apprentices circumsizing Pennington; who for all their abominable treasons and murthers, are to receive their just reward, and wages of death, at Tower-Hill and the gallows.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92299</idno><idno type="EEBO-CITATION">99866907</idno>
+  <idno type="VID">168944</idno>
+  <idno type="EEBO-PROQUEST">2240919846</idno>
+  
+            <idno type="STC">Wing R597</idno>
+            <idno type="STC">Thomason E1040_1</idno>
+            <idno type="STC">ESTC R207884</idno>
+            <idno type="PROQUEST">99866907</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866907e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168944)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1040[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rebels almanack: calculated for the use of all loyal subjects within these his Majesties realms and dominions. Wherein is discovered, a new nest of old monsters; with all their secret wicked, and treasonable conspiracies, horrid plots, and bloody combinations, both against King and kingdoms. Likewise, the charge, judgmemt, and impeachment, against politick Lambert, seal-keeper Lisle, Blooms-bury Martin, blind-beetle Mayne, bloody Holland, and the London-apprentices circumsizing Pennington; who for all their abominable treasons and murthers, are to receive their just reward, and wages of death, at Tower-Hill and the gallows.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "Aug. 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Almanacs --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168944:1"/>
+            <p>THE Rebels Almanack: CALCULATED For the Use of all Loyal Subjects within these his Majesties Realms and Dominions.</p>
+            <p>
+               <hi>Wherein is Discovered,</hi> A New Nest of Old Monsters; With all their secret wicked, and Treasonable Conspiracies, horrid Plots, and bloody Combinations, both against KING and KINGDOMS.</p>
+            <p>Likewise, the Charge, Judgment, and Impeachment, against Politick <hi>Lambert,</hi> Seal-keeper <hi>Lisle,</hi> Blooms-bury <hi>Martin,</hi> Blind-beetle <hi>Meyne,</hi> Bloody <hi>Holland,</hi> and the <hi>London-Appren<g ref="char:EOLhyphen"/>tiees</hi> Circumcizing <hi>Pennington;</hi> who for all their abomi<g ref="char:EOLhyphen"/>nable Treasons and Murthers, are to receive their just Reward, and Wages of Death, at Tower-Hill and the Gallows.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168944:2"/>
+            <pb n="1" facs="tcp:168944:2"/>
+            <head>The REBELS Almanack Calculated.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter I had almost made an end of my Travail, and Moneys, which did expire much about the same period of time, I resolved my self for a return in<g ref="char:EOLhyphen"/>to my Native Countrey <hi>England;</hi> but moneys being very scarce, I thought it not amiss to visit <hi>France,</hi> hoping that there <hi>Fortune</hi> might be so friendly to me, that I might there light upon some of my ac<g ref="char:EOLhyphen"/>quaintance, whose civil humanity might supply my present wants, and inlarge my condition to a better ability of reach<g ref="char:EOLhyphen"/>ing my intended home. But I was no sooner entred into <hi>Paris,</hi> but the very first Object which presented it self to my view was <hi>John Lisle</hi> Esq; formerly (when Rebellion and its Instruments prosper'd) adored by the Title of the Lord <hi>Lisle,</hi> one of so famous a tincture, that his colour admits of no other dye: He is a very Knave in grain, and you know a double dye will hardly stain: But I shall not trouble you with any fur<g ref="char:EOLhyphen"/>ther description of him, because he hath left a publique Testimony of his Goodness and Merits to the World. After some small interview of each other, he demanded of me my Name and Countrey; I answered, my Name was <hi>Astrologus,</hi> my Countrey <hi>England.</hi> Then, said he, you have Skill in telling of Fortunes. That Art, <hi>Sir,</hi> and please you, is the best Fortune I have now left me, since you and the rest of your Brothers <hi>Harpy's</hi> rendred me as naked to live in the world, as I was brought into it. Well! but to the purpose; if thou hast any Judgment in those Se<g ref="char:EOLhyphen"/>crets of Nature, let me share with thee.</p>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Before I untrust my Art unto you, you must untrust your purse-strings; for I cannot whistle without a Silver Pipe: But, <hi>Sir,</hi> I will trust to your bounty, I know you are as free, as honest, and will pay others their Wages, as you do expect yours: Let me see your hand.</p>
+            </sp>
+            <sp>
+               <speaker>Lisle.</speaker>
+               <p>Why my hand?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Sir, my way of satisfying men and their desires, is performed by that part which is known by the Name of the <hi>Chichomantick Art.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lisle.</speaker>
+               <p>There 'tis: And what do you discover?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Um! Um! Your Table is very foul; very full of Spots and Faults.</p>
+            </sp>
+            <sp>
+               <speaker>Lisle.</speaker>
+               <p>Leave off your Circumstances, and inform me what your Opi<g ref="char:EOLhyphen"/>nion of me is, and what you can discover by this your <hi>Inspection.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>To deal truly with you, for I must speak the truth; you are of a strange Factious and Rebellious constitution, your Figure and
+<pb n="2" facs="tcp:168944:3"/> Tables speaks you Guilty of Conspiracy, Treason, and Murder, and your Line of Life tells me, that you saved your self by flight, and that you found one pair of Leggs worth two pair of Hands, and that by the wings of fear, you out-stript Justice.</p>
+            </sp>
+            <sp>
+               <speaker>Lisle.</speaker>
+               <p>Sir, I presume your skil in Physick is not inferiour to this you profess in this Art, for they are assistants one to the other; and I find<g ref="char:EOLhyphen"/>ing my Body much distempered since my coming into this Air, desire to know, whether for the preservation of my health it were not my better course to return into England.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>No Sir, not by any means; your return will be a certain means to shorten your dayes, for without all doubts the English Air and Climate are enemies to bodies of your Temper, and cannot by any means concur and agree with your constitution: So farewel Sir, for I am bound for England.</p>
+            </sp>
+            <sp>
+               <speaker>Lisle.</speaker>
+               <p>Nay Sir take your reward along with you, and I give you ma<g ref="char:EOLhyphen"/>ny thanks for your advice, which I shall endeavour to observe; and I pray Sir let me intreat you to give a visit at your residence in England to some of my Brethren, whose doubtful condition will desire satisfa<g ref="char:EOLhyphen"/>ction as well as mine.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>If by your instructions you shall direct me how I shall obtain a View and Discourse with them, I shall with all fidelity satisfie your desires unto me.</p>
+            </sp>
+            <sp>
+               <speaker>Lisle.</speaker>
+               <p>They were formerly known by the name of the <hi>Good Old Cause,</hi> but of late distinguished by the Title of <hi>The Rumpers;</hi> then they ruled as publick Members of In-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ustice, but since they have retired them<g ref="char:EOLhyphen"/>selves, and have now taken close Lodgings; they very seldom or ne<g ref="char:EOLhyphen"/>ver goe abroad, so that you may have access and conference with them at any hour of the day: The names of those to whom I shall commend your judgement, are, <hi>Vane, Hasilrig, Lambert, Hacker, Ax<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ell, Isaac Pennington, Martin, Holland,</hi> and <hi>Meyne.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>So soon as I arrived in <hi>England,</hi> I made enquiry where these Birds were cloister'd, which when I discovered this chirping in many places, so to their several habitations I made my Address to hear what Musick they made in their Cages. My first appearance was to <hi>Vane,</hi> as whose deservance, I found in a very melancholly study, but when he heard of his old competitor and partner <hi>Lisle,</hi> he admitted me into Discourse with him, and to Court me as followeth.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>I understand that you came from one of our special friends and acquaintance, to whom you have given very good satisfaction by way of your Art, I pray let me desire the like from you: Pray what think you of my Hand?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Horrid; Oh, horrid! Here is a Bloody Table, Dy'd and
+<pb n="3" facs="tcp:168944:3"/> Stain'd into a Crimson complexion.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>I see no Redness at all.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>No, you are like the Mobb, blind in the discovery of your own faults, but I can perceive it plainly, it is not ordinary blood which casts the stain, but Royal Blood, a Princes Blood, and he one of the best Princes too.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>It was not I alone that did act in that horrid business and Murther.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>No, you were not alone; but many more did joyn with you, but you were one of the grand contrivers of that mischief, the great Wheel by which the lesser did move, whose bloody designs had scarce taken effect, without your council and countenance; besides the blood of many more speaks guilt within the Book of your Hand; your blood is very corrupt and foul, and therefore must speedily be taken a<g ref="char:EOLhyphen"/>way.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>I am too old to bleed now, and it would be ill advice of my Doctor, and argue his ignorance, if he should bleed me at this age.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>I find that without the prescription and help of your Doctor you must speedily bleed, without all question, you will very suddenly receive a cut or wound in the Neck, which will cause a great Flux of blood, and will endanger (if not quite take away) your life.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>What do you find in my Brothers Table?</p>
+            </sp>
+            <sp>
+               <speaker>Hasilrig.</speaker>
+               <p>Pray Sir let me have the benefit of your Art also.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>I find that you have a very great appetite, and that at one time you can swallow down a whole great Bishoprick and never flinch at it. This Line discovers you to be a man of a fiery temper, and one who is able to fire a whole K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngdom, to whom neither Treason nor Murder can raise any scr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ple of Conscience; and that this City should have been made the sub ect of your flames, if not timely preven<g ref="char:EOLhyphen"/>ted.</p>
+            </sp>
+            <sp>
+               <speaker>Hasilrig.</speaker>
+               <p>Can your Art discover nothing else?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Yes Sir: I finde by the Line which crosses the middle of your Palm, that within some few months you will stumble at <hi>Tower-hill,</hi> and there end your dayes. Master <hi>Lambert</hi> you expect to be Resolved also.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>I do Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>If my Art deceives me not, your Table betrayes you to be an earnest and bitter enemy against <hi>Monarchy,</hi> endeavouring to set up A<g ref="char:EOLhyphen"/>ristocracie, or some other Power more degenerate, wherein your self would be cheif Commander, and rule the Roste with the Brothers of your conspiracie the <hi>Independents, Anabaptists,</hi> and <hi>Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>akers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:168944:4"/>
+               <speaker>Lamb.</speaker>
+               <p>What reward shall I expect for all my service which I have done in the wars?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>You shall be rewarded, and sufficiently too; but I finde that your wages will be paid you by a Mrs. whom you never served, whose name is <hi>Justice:</hi> and I would advise you (for you have been tampering with them too much already) to forbear medling with Guns, for fear your deserved end comes by the burst of a Gun.</p>
+            </sp>
+            <sp>
+               <speaker>Hacker.</speaker>
+               <p>Have I deserved nothing for all my service, doth my table promise no reward for all my great deservings?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Yes Sir, I finde that your deservings shall be paid in your own coyn, and because that you were very instrumental in promoting that villanous and most execrable murder against t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Royal person of our late Sacred Soveraign, and in case he should have refused to have sub<g ref="char:EOLhyphen"/>mitted to that impious sentence, that then you were furnisht with Cords in your pocket, to have enforced him thereunto: A little of the extraction of Hemp shall be your reward, and you shall be hanged in one of your own Haltars. Here's another as good as the rest, what would you Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Axtel.</speaker>
+               <p>I desire your resolve as well as the rest.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>You shall have it, and brief; for your table doth very plain<g ref="char:EOLhyphen"/>ly and easily discover it self: Here you may behold the bloody chara<g ref="char:EOLhyphen"/>cter writ in your hand, and in as large a Letter: Which signifies, that the fact was not commirted in haste or hot blood; and this also de<g ref="char:EOLhyphen"/>monstrates, that as you kild others in cold blood, so you shall lye im<g ref="char:EOLhyphen"/>prisoned, until the hardship of the Prison begets in you a sense of your foul actions, then also shall you perish by the sword: A just reward for wilful Murtherers, and Villains.</p>
+            </sp>
+            <stage>
+               <hi>Now having dispatcht my</hi> Tower-birds, <hi>I took my walk into the Ci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, where I was soon espy'd by that sneaking Decoy of the City,</hi> Isaac Penington, <hi>and he also must have a taste of my skill, and thus be accosts me.</hi>
+            </stage>
+            <sp>
+               <speaker>Penningt.</speaker>
+               <p>Dear friend <hi>Astrologus,</hi> you are welcome from your travels, how have you done since your departure?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>As well as a Bird could do that was pluck'd alive, and stript of all his feathers.</p>
+            </sp>
+            <sp>
+               <speaker>Penningt.</speaker>
+               <p>But they are grown again since your departure, and are now very fair and full.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>They were replenisht by a soveraign hand, who is as able to reward you according to pour deservings, as to repair my sufferings.</p>
+            </sp>
+            <sp>
+               <speaker>Penningt.</speaker>
+               <p>Now you talk of a hand, pray look into my hand, and tell me what I must expect for my nineteen years service?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>This Cross-line shews, that you were alwayes a cross-grain'd
+<pb n="5" facs="tcp:168944:4"/> peevish fellow; that you were one that circumcized the Apprentices Hair in <hi>London</hi> first; and that you were the greatest Enemy to Orthodox Ministers; and which is a most notorious commitment of folly and kna<g ref="char:EOLhyphen"/>very in you, that notwithstanding you had been Lord Mayor, although by a false and finister way, and had continued so long in the gainful place and power of the <hi>Good Old Cause,</hi> yet deceiv'd your Creditors of many thousand pounds.</p>
+            </sp>
+            <sp>
+               <speaker>Penning.</speaker>
+               <p>These are but small faults, in comparison to those which have bin committed by others; and therefore sir, pray resolve me, if I may not obtain Pardon for them.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Had they not been accompanied with any other of a more foul and black Nature they might have been pardoned; but, as the Case stands, you must share with the rest, Murther cryes for Vengeance, and the Wrongs committed against your Countrey, cry for Justice; so take him Jaylor. Yonder approaches <hi>Harry Martin,</hi> smoaking out of a Bawdy-house, I wonder how the Divel they come to meet so happily, &amp; save me a labour to seek them. Here's <hi>Holland</hi> and <hi>Meyn</hi> too, all which expect my blessing, and they shall have it as the rest had; Your business with me Mr. <hi>Holland?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Holland.</speaker>
+               <p>Sir, I am much troubled to think what event our business may come to; we are in a very tottering condition, and do not stand fast and firm.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>No, brave <hi>Holland,</hi> you are not in a tottering condition as yet, but may very suddainly; when all things are prepared, you shall be lif<g ref="char:EOLhyphen"/>ted on high; but you must have a care that your fall be not too dange<g ref="char:EOLhyphen"/>rous.</p>
+            </sp>
+            <sp>
+               <speaker>Holland.</speaker>
+               <p>Why Sir? What have I done, that I should fear falling; but if my condition were as feeble and as weak as <hi>Harry Martin's,</hi> I should fear I should fall, and never rise again.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>I find that you are one of <hi>Actaeon</hi>'s bloody Family, who first were fed from their Masters Table, and afterwards they fed upon his blood: Now sir, you know how that Cur must be served which devours and kills his Master: The Case is yours, and you may be your own Judge, and save a Jury a labour.</p>
+            </sp>
+            <sp>
+               <speaker>Meyne.</speaker>
+               <p>Sir, a poor blind Rumper desires some Light of Reason from you; one who never had wit enough to be a Knave, yet was thought worthy to be a Justice of the Peace of the <hi>Rump.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Indeed, I find by your Table, that you are like the Jack-Daw among the Rooks, yet were endued with a stubborn and resolute Ob<g ref="char:EOLhyphen"/>stinacy to do mischief, and that you were rather led by your Will then Reason; and because the Proverb sayes Justice ought to be blind, you thought your self most fit to sit in the Chair.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:168944:5"/>
+               <speaker>Meyne.</speaker>
+               <p>Is there no hope of Remission from these our faults and mis<g ref="char:EOLhyphen"/>demeanours?</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>None; for if you should not be rewarded according to the merit of your deserving, you would complain that Justice were as <hi>blind</hi> as your Worship; but I think you will have no cause to complain of her light weight, or short measure unto you. See <hi>Harry Martins</hi> comes to take a taste of my Office; you expect the same Resolve your friends have had before.</p>
+            </sp>
+            <sp>
+               <speaker>Martin.</speaker>
+               <p>I should think my self much injur'd if I should be sleighted, and not have the same notice taken of me, as the rest of our Members have: I am sure we were all Members of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dy,</hi> and did all <hi>row</hi> in one <hi>Boat</hi> together.</p>
+            </sp>
+            <sp>
+               <speaker>Astrol.</speaker>
+               <p>Be not angry friend, your desires shall be satisfied; let me see your hand. <hi>Here.</hi> I find that you are in the same <hi>praemunire</hi> with the rest, that you are as deep dipt in gore, as guilty of the publique Distra<g ref="char:EOLhyphen"/>ctions, Rapines, and Murthers, committed by your Brother Rumpers: And finally, that you were as guilty of their unjust Proceedings as the rest: So that unless you are super<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eded by your old Friend t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Frevch<g ref="char:EOLhyphen"/>man,</hi> which hath been a sure Associate to you this many years, you must sing the same Song, and act the same Tragedy with the rest of your Fraternity: Sir,</p>
+               <stage>Exit Martin.</stage>
+               <q>
+                  <l>Then We must be content, for 'tis too late</l>
+                  <l>To pervert Justice, or to alter Fate:</l>
+                  <l>And what j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st Heaven decrees must be obey'd,</l>
+                  <l>And cannot be by sinful flesh gain-said.</l>
+               </q>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
